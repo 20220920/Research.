@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 st.title('Kentaro App')
-st.caption('This is my assingment')
+st.caption('This is my research')
 
 
 col1, col2 =st.columns(2)
@@ -15,7 +15,10 @@ with col1:
  st.subheader('Introduction')
  st.text('My name is Kentaro Kamiya.')
  st.text('I have been living in New Zealand \n'
-         'since 2011.I live in here with my family')
+         'since 2011.I live here with my family')
+ video_file= open('./data/ISYQ5032.mov','rb')
+ video_bytes=video_file.read()
+ st.video(video_bytes)
  
 with col2:
  st.subheader('This is my sons')

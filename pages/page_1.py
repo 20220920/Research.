@@ -7,7 +7,7 @@ with st.form(key='profile_form'):
  
  gender_category=st.radio(
      'Gender',
-     ('Man','Woman')
+     ('Male','Female')
  )
  hobby=st.multiselect(
      'Hobby',
