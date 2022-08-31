@@ -65,3 +65,10 @@ with col1:</p>
     st.text(f'Hello!{name}')<br>
     st.text(f'Gender: {gender_category}')<br>
     st.text(f'Hobby:{",".join(hobby)}')</p>
+ <h1>Conclusion</h2>
+ <p>Streamlit can make web site just using python code.
+ And very easy to create any web application.</p>
+<p> I tried graphs about stock prices or inserting any scientific data but 
+ it too hard to show in this research<br> otherefore I have to keep learning
+ basics of python language.</p>
+<p>Anyway, Streamlit framework can make creating web site easier<br> as well as even more become powerful.</p>
