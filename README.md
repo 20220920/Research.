@@ -13,8 +13,7 @@ I dployed my web site below space for free using github.</p>
 
 <a href="https://20220920-research--main-app-j8pl0v.streamlitapp.com/">this is a link 'https://20220920-research--main-app-j8pl0v.streamlitapp.com'</a>
 
-<p>All code was
-Folder Name.</p>
+
 <h2>-main_app.py code</h2>
 
 <p>st.title('Kentaro App')</p> #title very easy and we do not use HTML
