@@ -72,10 +72,13 @@ with col1:</p>
      'Hobby',
      ('Sport','Anime','Movie','Fishing','Cooking','etc')</P>  
      #I can easy to insert multiselect widget on my website
+ <h2>things that you think are interesting or just don't understand (with comments)</h2>
+ <p>Interest things is streamit Cloud</p><a href="https://streamlit.io/cloud"></a><p>which I can deploy my streamlit web site via github.It is convenient.</p>
+ <p>I do not understand that I can not deploy financial data on this cloud service.I success to show my financial data graph on local environment However I failed.</p>
  <h2>Conclusion</h2>
  <p>Streamlit can make web site just using python code.
  And very easy to create any web application.</p>
 <p> I tried graphs about stock prices or inserting any scientific data but 
  it too hard to show in this research<br> otherefore I have to keep learning
  basics of python language.</p>
-<p>Anyway, Streamlit framework can make creating web site easier<br> as well as even more become powerful.</p>
+<p>Anyway, Streamlit framework can make creating web site easier<br> as well as even more become powerful tool.</p>
