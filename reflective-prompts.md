@@ -47,7 +47,7 @@ Yes, I said there was no time. I believe it.
 ### What is an MVP? How would you describe it to a group of 6 year olds?
 MVP, is a product with enough features to attract early-adopter customers and validate a product idea early in the product development cycle. In industries such as software, the MVP can help the product team receive user feedback as quickly as possible to iterate and improve the product.
 ### What is the hardest problem you have solved so far?
-In 1997 year, My house was broken because the earthquake hit my city. we had no house for nearly 2 months. but We could survive after that.
+In 1994 year, My house was broken because the earthquake hit my city. we had no house for nearly 2 months. but We could survive after that.
 ### What is pair programming?
 Pair programming consists of two programmers sharing a single workstation (one screen, keyboard and mouse among the pair). The programmer at the keyboard is usually called the “driver”, the other, also actively involved in the programming task but focusing more on overall direction is the “navigator”; it is expected that the programmers swap roles every few minutes or so.
 ### What are you looking forward to learning about programming?
