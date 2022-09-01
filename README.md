@@ -65,7 +65,7 @@ with col1:</p>
     st.text(f'Hobby:{",".join(hobby)}')</p>
  <h2>code that I've been inspired by (with comments)</h2>
   <p>height=st.slider('Height',min_value=110, max_value=210)</p>
-     #Only this code can make sider without any function.
+     # This code can make sider without any function.
   <p>hobby=st.multiselect(
      'Hobby',
      ('Sport','Anime','Movie','Fishing','Cooking','etc')</P>  
