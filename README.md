@@ -7,10 +7,9 @@ Including this, I am specifically interested in There are three Frame Work which
     <li>-Streamlit</li>
 </ul>
 
-<p>I am looking at all frameworks I discovered that streamlit was super easy to deploy content on a server.
-And only use python code.
-like that
-I dployed on this space for free using github.</p>
+<p>Above the three frameworks I discovered, streamlit was super easy to deploy on a server.
+ And it only use python language code.
+I dployed my web site below space for free using github.</p>
 
 <a href="https://20220920-research--main-app-j8pl0v.streamlitapp.com/">this is a link 'https://20220920-research--main-app-j8pl0v.streamlitapp.com'</a>
 
