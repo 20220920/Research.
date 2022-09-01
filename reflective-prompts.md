@@ -15,7 +15,7 @@ Python is a computer programming language often used to build websites and softw
 ### Have you developed a habit of exploring?
 Yes, I extremely developed a habit of exploring because If I keep to explore. I will find more practical usages in my life.
 ### Have you meditated before?
-I have not meditated in a daily life.
+I usually do not meditated in my daily life.
 ### Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
 I have not got any degree of mastery in my life yet. I tryed to become a baseball player but It was hard to be professional one.
 ### Do you consider yourself a developer yet?
