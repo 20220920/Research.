@@ -18,7 +18,7 @@ I dployed on this space for free using github.</p>
 Folder Name.</p>
 <h2>-main_app.py code</h2>
 
-<p>st.title('Kentaro App')</p>
+<p>st.title('Kentaro App')</p> #title very easy and we do not use HTML
 
 <p>st.caption('This is my research')</p>
 
