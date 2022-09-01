@@ -65,14 +65,14 @@ with col1:</p>
     st.text(f'Hello!{name}')<br>
     st.text(f'Gender: {gender_category}')<br>
     st.text(f'Hobby:{",".join(hobby)}')</p>
- <h2>code that you've been inspired by (with comments)</h2>
+ <h2>code that I've been inspired by (with comments)</h2>
   <p>height=st.slider('Height',min_value=110, max_value=210)</p>
      #Only this code can make sider without any function.
   <p>hobby=st.multiselect(
      'Hobby',
      ('Sport','Anime','Movie','Fishing','Cooking','etc')</P>  
      #I can easy to insert multiselect widget on my website
- <h2>things that you think are interesting or just don't understand (with comments)</h2>
+ <h2>things that I think are interesting or just don't understand (with comments)</h2>
  <p>Interest things is streamit Cloud</p><a href="https://streamlit.io/cloud"></a><p>which I can deploy my streamlit web site via github.It is convenient.</p>
  <p>I do not understand that I can not deploy financial data on this cloud service.I success to show my financial data graph on local environment However I failed.</p>
  <h2>Conclusion</h2>
