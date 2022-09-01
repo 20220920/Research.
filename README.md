@@ -1,5 +1,5 @@
 <h2># Research</h2>
-<p>I found that python is a powerful language. According to my research, it can be used for Machine Learning, Deep Learning and using Internet things, etc.
+<p>I found that python is a powerful language. According to my research, it can be used for Machine Learning, Deep Learning and using Internet of things, etc.
 Including this, I am specifically interested in There are three Frame Work which allows for making web site easier.</p>
 <ul>
     <li>-Django</li>
