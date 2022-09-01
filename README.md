@@ -65,7 +65,14 @@ with col1:</p>
     st.text(f'Hello!{name}')<br>
     st.text(f'Gender: {gender_category}')<br>
     st.text(f'Hobby:{",".join(hobby)}')</p>
- <h1>Conclusion</h2>
+ <h2>code that you've been inspired by (with comments)</h2>
+  <p>height=st.slider('Height',min_value=110, max_value=210)</p>
+     #Only this code can make sider without any function.
+  <p>hobby=st.multiselect(
+     'Hobby',
+     ('Sport','Anime','Movie','Fishing','Cooking','etc')</P>  
+     #I can easy to insert multiselect widget on my website
+ <h2>Conclusion</h2>
  <p>Streamlit can make web site just using python code.
  And very easy to create any web application.</p>
 <p> I tried graphs about stock prices or inserting any scientific data but 
