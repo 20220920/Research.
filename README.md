@@ -73,7 +73,7 @@ with col1:</p>
      ('Sport','Anime','Movie','Fishing','Cooking','etc')</P>  
      #I can easy to insert multiselect widget on my website
  <h2>things that I think are interesting or just don't understand (with comments)</h2>
- <p>Interest things is streamit Cloud</p><a href="https://streamlit.io/cloud">https://streamlit.io/cloud</a><p>which I can deploy my streamlit web site via github.It is convenient.</p>
+ <p>Interest things is streamit Cloud</p><a href="https://streamlit.io/cloud">'https://streamlit.io/cloud'</a><p>which I can deploy my streamlit web site via github.It is convenient.</p>
  <p>I do not understand that I can not deploy financial data on this cloud service.I success to show my financial data graph on local environment However I failed.</p>
  <h2>Conclusion</h2>
  <p>Streamlit can make web site just using python code.
