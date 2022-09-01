@@ -15,7 +15,7 @@ Python is a computer programming language often used to build websites and softw
 ### Have you developed a habit of exploring?
 Yes, I extremely developed a habit of exploring because If I keep to explore. I will find more practical usages in my life.
 ### Have you meditated before?
-I have not meditated in a daily life.
+I usually do not meditated.
 ### Is there something over which you have gained a degree of mastery before in your life? Gymnastics, Rubik's Cubes, A Video Game? What did it take?
 I have not got any degree of mastery in my life yet. I tryed to become a baseball player but It was hard to be professional one.
 ### Do you consider yourself a developer yet?
@@ -47,7 +47,7 @@ Yes, I said there was no time. I believe it.
 ### What is an MVP? How would you describe it to a group of 6 year olds?
 MVP, is a product with enough features to attract early-adopter customers and validate a product idea early in the product development cycle. In industries such as software, the MVP can help the product team receive user feedback as quickly as possible to iterate and improve the product.
 ### What is the hardest problem you have solved so far?
-In 1997 year, My house was broken because the earthquake hit my city. we had no house for nearly 2 months. but We could survive after that.
+In 1994 year, My house was broken because the earthquake hit my city. we had no house for nearly 2 months. but We could survive after this happen.
 ### What is pair programming?
 Pair programming consists of two programmers sharing a single workstation (one screen, keyboard and mouse among the pair). The programmer at the keyboard is usually called the “driver”, the other, also actively involved in the programming task but focusing more on overall direction is the “navigator”; it is expected that the programmers swap roles every few minutes or so.
 ### What are you looking forward to learning about programming?
