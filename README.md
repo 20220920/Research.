@@ -23,17 +23,17 @@ Folder Name.</p>
 <p>st.caption('This is my research')</p>
 
 
-<p>col1, col2 =st.columns(2)
+<p>col1, col2 =st.columns(2) #separate 
 with col1:</p>
 
-<p>image =Image.open ('./data/IMG_2026.JPG')
+<p>image =Image.open ('./data/IMG_2026.JPG') #Add Picture
  st.image(image,width=350)</p>
 <p> st.subheader('Introduction')</p>
  <p>st.text('My name is Kentaro Kamiya.')
  st.text('I have been living in New Zealand 
 '
          'since 2011.I live here with my family')</p>
- <p>video_file= open('./data/ISYQ5032.mov','rb')
+ <p>video_file= open('./data/ISYQ5032.mov','rb') #Add Movie
  video_bytes=video_file.read()
  st.video(video_bytes)</p>
 
