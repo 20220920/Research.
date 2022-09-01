@@ -67,7 +67,7 @@ Searching first and Learn simple code. After this try to develop new project suc
 ### Which parts of this course made you feel doubtful of your own innate ability?
 I thought that I should memorize programing grammer more at first.
 ### What is a fixed mindset?
-From building roof is more easier than cultivation from basic knowledge.
+From building roof is more easier than cultivating from basic knowledge.
 ### What is something kind you have done for someone else?
 Telling some easiest way to developing WEB APPLICATION.
 ### Have you done mindfulness or attention training before?
