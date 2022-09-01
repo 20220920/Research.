@@ -47,30 +47,33 @@ Yes, I said there was no time. I believe it.
 ### What is an MVP? How would you describe it to a group of 6 year olds?
 MVP, is a product with enough features to attract early-adopter customers and validate a product idea early in the product development cycle. In industries such as software, the MVP can help the product team receive user feedback as quickly as possible to iterate and improve the product.
 ### What is the hardest problem you have solved so far?
-
+In 1997 year, My house was broken 
 ### What is pair programming?
 Pair programming consists of two programmers sharing a single workstation (one screen, keyboard and mouse among the pair). The programmer at the keyboard is usually called the “driver”, the other, also actively involved in the programming task but focusing more on overall direction is the “navigator”; it is expected that the programmers swap roles every few minutes or so.
 ### What are you looking forward to learning about programming?
 Making a own product like internet of things.  
 ### What is conscious listening?
-
+It is like technique to listen.we have to improve in any situation such as gender culture geographical feature and It can imporve using 5 simple exercises.
 ### What is a variable?
-
+Variables are used to store information to be referenced and manipulated in a computer program. They also provide a way of labeling data with a descriptive name, so our programs can be understood more clearly by the reader and ourselves. It is helpful to think of variables as containers that hold information. Their sole purpose is to label and store data in memory. This data can then be used throughout your program.
 ### What programming languages are you interested in learning? Why?
+Before Taking this course, My freind recommend to learn react. But on second thought, I want to learn python now. Because, I can learn AI deep learning maschine learning as well as web application.
 
 ### What is something kind that someone has done for you?
+Creating github repository.
 
 ### If you were describing programming to someone who knows nothing about it, what would you say?
-
+Searching first and Learn simple code. After this try to develop new project such as AI, web application
 ### Which parts of this course made you feel doubtful of your own innate ability?
-
+I thought that I should memorize programing grammer more at first.
 ### What is a fixed mindset?
-
+From building roof is more easier than cultivation from basic knowledge.
 ### What is something kind you have done for someone else?
-
+Telling some easiest way to developing WEB APPLICATION.
 ### Have you done mindfulness or attention training before?
-
+Never
 ### Have you developed a habit of persevering?
+Yes, From practicing baseball, I became more persistence person than before.
 
 
 
